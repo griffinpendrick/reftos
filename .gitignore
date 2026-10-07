@@ -1,0 +1,15 @@
+bin/
+.vscode/
+
+*.o
+*.obj
+*.elf
+*.map
+*.bin
+*.hex
+*.d
+*.su
+*.lst
+
+.DS_Store
+Thumbs.db
